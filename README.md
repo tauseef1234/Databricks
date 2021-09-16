@@ -1,4 +1,4 @@
-# ML Projects MSBA - Bentley Univeristy
+# ML Projects MSBA - Bentley University
 
 This repo showcases the two group ML projects that I worked on during my master's course at Bentley University.
 
